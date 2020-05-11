@@ -3,7 +3,7 @@ Simple C# CLI GTA-V RTM that runs on linux.
 ## REQUIRED DEPENDENCIES
 -Mono
 
--dotnet(for building the app).
+-dotnet
 ## USAGE
 Just take the last bin and run it with 
 
