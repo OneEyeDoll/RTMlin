@@ -1,11 +1,11 @@
 # RTMlin
 Simple C# CLI GTA-V RTM that runs on linux.
-# REQUIRED DEPENDENCIES
--Mono
--dotnet(for building the app).
-# USAGE
+## REQUIRED DEPENDENCIES
+>>-Mono
+>>-dotnet(for building the app).
+## USAGE
 Just take the last bin and run it with ./RTMlin . This tool works only with PS3MAPI. Tested both on online and single player, with an HEN PS3.
-Start HEN, then use /connect, then insert your console's ip address. **RUN THE GAME, ONLY THEN USE /attach COMMAND!!**
+Start HEN, then use >>/connect, then insert your console's ip address. **RUN THE GAME, ONLY THEN USE /attach COMMAND!!**
 As i said, this tool is very simple, and right now has only few mods:
 -Sky color edit(use it for testing if the tool works)
 -Infinite ammos.
