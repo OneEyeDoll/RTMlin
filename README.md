@@ -19,4 +19,13 @@ As i said, this tool is very simple, and right now has only few mods:
 
 -GodMod.
 
+## BUILDING
+
+Just run
+
+>>make
+
+In the RTMlin folder
+
+
 
