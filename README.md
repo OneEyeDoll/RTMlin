@@ -5,7 +5,7 @@ Simple C# CLI GTA-V RTM that runs on linux.
 
 -dotnet
 ## USAGE
-Just take the last bin and run it with 
+Just take the last release and run it with 
 
 >>./RTMlin  
 
